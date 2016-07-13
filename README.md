@@ -1,7 +1,7 @@
 # my-repo
 
 
-[see this link] (https://github.com/ciaranmm/my-repo/blob/gh-pages/ggplot_intro.html)
+[see this link] (http://ciaranmm.github.io/my-repo/blob/gh-pages/ggplot_intro.html)
 
 # my-project
 
